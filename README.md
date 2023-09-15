@@ -2,7 +2,7 @@
 
 Material del curso de programación con Python
 
-Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.github.io/PythonFundamentos/index.html).
+Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.github.io/ProgramacionPython/index.html).
 
 ## Contenido del Curso
 
