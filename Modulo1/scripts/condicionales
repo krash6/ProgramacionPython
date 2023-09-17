@@ -1,0 +1,10 @@
+# Declaramos las variables para almacenar el estado del semáforo
+estado_semaforo = input("Introduce el estado del semáforo : ")
+
+# Comprobamos el estado del semáforo
+if estado_semaforo == "verde":
+    # Si el semáforo está en verde, cruzamos la calle
+    print("Cruza la calle")
+else:
+    # Si el semáforo está en rojo o amarillo, no cruzamos la calle
+    print("No cruces la calle")
